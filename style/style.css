@@ -20,7 +20,7 @@
     display: flex;
     justify-content: center;
     font-family: Arial, sans-serif;
-    width: 1280px;
+    
 
 }
 .container{
@@ -277,6 +277,8 @@ font-size: 32px;
   }
   .text-marque{
    position: relative;
+   
+   
    bottom: -200px;
     width: 100%;
   }
